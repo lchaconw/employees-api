@@ -3,7 +3,6 @@
 A Spring Boot backend application for managing employee data.
 
 ## Prerequisites
-
 - Java 11
 - Maven
 - MySQL
